@@ -1,2 +1,5 @@
-# turk-radio-player
-Listen to Turkish radio channels from the terminal
+Terminalden Türk radyo kanallarını dinleyin
+### Gerekenler
+```
+pip3 install python-vlc
+```
