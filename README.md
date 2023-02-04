@@ -3,3 +3,5 @@ Terminalden Türk radyo kanallarını dinleyin
 ```
 pip3 install python-vlc
 ```
+
+Aracın gelişmesi için Pull requests atmayı unutmayın!
